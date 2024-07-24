@@ -37,6 +37,12 @@ body {
     text-align: center;
 }
 
+.blurb a.infowise-link {
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 .container {
     margin: 20px;
     background-color: #fff;
